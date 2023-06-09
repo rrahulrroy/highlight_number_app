@@ -1,0 +1,11 @@
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 30px;
+    background-image: linear-gradient(to top right, #FFEEBB, #A7ECEE);
+    font-size: large;
+  }
+
+  h1 {
+    font-family: 'Pacifico', cursive;
+  }
