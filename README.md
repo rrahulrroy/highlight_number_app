@@ -1,5 +1,7 @@
 # HighlightNumberApp
 
+![Alt text](/src/assets/images/hn_app.png?raw=true "Screenshot")
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
 
 ## Development server
